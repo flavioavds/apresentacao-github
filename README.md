@@ -1,5 +1,5 @@
 <h1 align="center">
-            <img src="word.png" alt="world" width="300"/>
+            <img src="globoword.gif" alt="world" width="900"/>
 </h1>
 
 <a href="https://www.linkedin.com/in/flavio-augusto-venancio-de-souza-9083981a3"><img src=linkdin.png alt="linkdin" width="50"></a>
