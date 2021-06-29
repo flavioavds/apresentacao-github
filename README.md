@@ -2,6 +2,10 @@
             <img src="word.png" alt="world" width="300"/>
 </h1>
 
+[
+    <img src="linkdin.png" alt="linkdin" width="50">
+](www.linkedin.com/in/flavio-augusto-venancio-de-souza-9083981a3)
+
 ## 👨‍🎓 Apresentação
 <table>
     <tr align="center">
